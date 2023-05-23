@@ -191,7 +191,7 @@ class Konvert_Window(QWidget):
             )
 
     def FOOTER_GITHUB_CLICKED(self):
-        webbrowser.open("https://github.com/shiueo/konvert")
+        webbrowser.open("https://github.com/shiueo-storage/Konvert")
 
     def FOOTER_DISCORD_CLICKED(self):
         webbrowser.open("https://discord.gg/NXwVfdcygM")
