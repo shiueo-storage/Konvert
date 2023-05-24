@@ -25,7 +25,7 @@ from src import converter
 
 global_path.set_proj_abs_path(os.path.abspath(__file__))
 
-SUPPORTING_FORMATS = ["jpg"]
+SUPPORTING_FORMATS = ["jpg", "wav", "ico"]
 SUPPORTING_FORMATS.sort()
 
 
